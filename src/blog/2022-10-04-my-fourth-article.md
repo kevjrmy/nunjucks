@@ -1,9 +1,9 @@
 ---
-title: My Fourth Article
-author: Kevin Powell
-date: 2021-06-01
+title: Mi Quarto Post
+author: Kevin Jeremy (admin)
+date: 2022-10-04
 image: /assets/blog/article-4.jpg
-imageAlt: This is a test
+imageAlt: Descripción de la imagen
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
