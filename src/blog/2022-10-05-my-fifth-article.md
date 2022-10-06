@@ -1,5 +1,5 @@
 ---
-title: My Quinto Post
+title: Mi Quinto Post
 author: Kevin Jeremy (admin)
 date: 2022-10-05
 tags: ["post", "featured"]
