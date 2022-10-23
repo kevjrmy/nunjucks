@@ -1,7 +1,7 @@
 ---
 title: Mi titulo de articulo
 description: Mi descripcion de articulo
-author: Claudia
+author: Claudia y Jorge
 date: 2022-10-23T15:22:37.475Z
 tags:
   - post
