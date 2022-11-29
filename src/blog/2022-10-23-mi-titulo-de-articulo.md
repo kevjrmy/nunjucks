@@ -1,12 +1,12 @@
 ---
-title: Mi titulo de articulo
+title: L'article a Toto
 description: Mi descripcion de articulo
 author: Claudia y Jorge
 date: 2022-10-23T15:22:37.475Z
 tags:
   - post
   - featured
-image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Carnavalito_en_Humahuaca.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Thumb_IMG_0662_1024.jpg/330px-Thumb_IMG_0662_1024.jpg
 imageAlt: foto tomada en Cochabamba, Bolivia
 ---
 \# AGUAYO
